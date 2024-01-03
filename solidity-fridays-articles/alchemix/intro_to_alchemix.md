@@ -23,7 +23,7 @@ As a deFi project, Alchemix allows users to collateralize loans by issuing synth
 Alchemix reroutes the user's deposited tokens to a secondary vault to earn yield, which the protocol periodically harvests to automatically pay off users' debt.
 The protocol does so by crediting depositors' accounts with a proportional share of the accrued yield, thereby raising their available credit and decreasing amount owed over time.
 
-![Placeholder diagram](assets/placeholder-diagram.png)
+![Protocol diagram](assets/alchemix-protocol-diagram.png)
 
 ## Alchemix Components
 
